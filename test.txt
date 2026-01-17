@@ -1,12 +1,12 @@
 Danendra Fathan Asmara
 
-Awal Pembuatan git
-1. Buat repositori di GitHub
-2. Buat Folder project di local computer/laptop
+awal Pembuatan git
+1. buat repositori di GitHub
+2. buat Folder project di local computer/laptop
 3. inisiasi git - git init
 4. menambahkan file/project ke folder project
 5. menambahkan perubahan file/project ke git - git add namefiles
 6. commit git commit -m "pesan commit"
 7. tambhkan cabang/branch git branch -M main
 8. hubungkan git local dengan GitHub - git remote add origin alamat GitHub
-9. upload file/perubahan ke GitHub/repo online - get push -u origin main
+9. upload file/perubahan ke GitHub/repository online - get push -u origin main
